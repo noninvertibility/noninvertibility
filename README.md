@@ -18,7 +18,7 @@ In this work, we briefly review the possibly catastrophic consequences of such n
 
 MIT License
 
-Copyright (c) [2021] [matching-transforming-anns contributors]
+Copyright (c) [2021] [noninvertibility contributors]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
