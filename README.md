@@ -11,10 +11,10 @@ In this work, we briefly review the possibly catastrophic consequences of such n
 ## Contents
 Below we list only the code entry points for reproducing key figures in the paper.
 
-1. _Local-Invertibility-of-Neural-Networks Local Invertibility of Neural Networks 1D example:_ Inset of Figure 1 (main), **"one_D_example.m"**
-2. _Parameter-dependent Brusselator network:_ Figure 2 (main), Figure 3 (main, top two), Figure 1 (supporting materials) **"para_dep_bru" folder**
-3. _Timestep-dependent Brusselator network:_ Figure 3 (main, bottom two) **"ts_dep_bru" folder** 
-4. _Invertible residual networks:_ Figure 2 (supporting materials) **"iResNet" folder** 
+1. _Figure 1 (inset) (local invertibility of neural Networks; 1D example):_ **`one_D_example.m`**
+2. _Figure 2, Figure 3 (top two); Figure 1 (supplemental) (parameter-dependent Brusselator network):_ **`para_dep_bru` folder**
+3. _Figure 3 (bottom two) (timestep-dependent Brusselator network):_ **`ts_dep_bru` folder** 
+4. _Figure 2 (supplemental) (invertible residual networks):_ **`iResNet` folder**
 
 ## License
 
