@@ -16,6 +16,22 @@ Below we list only the code entry points for reproducing key figures in the pape
 3. _Figure 3 (bottom two) (timestep-dependent Brusselator network):_ **`ts_dep_bru` folder** 
 4. _Figure 2 (supplemental) (invertible residual networks):_ **`iResNet` folder**
 
+## Installation
+
+Python packages for the Jupyter notebooks are contained in `requirements.txt` and can be installed with
+
+```bash
+pip install -r requirements.txt
+```
+or
+```bash
+conda install --yes --file requirements.txt
+```
+
+Note that these notebooks use TensorFlow 1.x, so a fresh virtual environment is recommended.
+
+The MATLAB scripts require the Gurobi optimization package. For instructions on installing Gurobi 9.1 for MATLAB, see [Gurobi.com](https://www.gurobi.com/documentation/9.1/quickstart_mac/matlab_setting_up_grb_for_.html).
+
 ## License
 
 MIT License
